@@ -3,6 +3,9 @@ import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 
 import java.time.LocalDateTime;
+import com.fasterxml.jackson.annotation.JsonFormat;
+
+
 
 
 public class Carro {
@@ -10,10 +13,11 @@ public class Carro {
     private int numeroPuertas;       // int
     private String marca;            // String
     private double precio;           // double
-    private LocalDateTime fechaRegistro;  // LocalDateTime
     private String color;
+    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
+    private LocalDateTime fechaRegistro;
 
-    public Carro(String matricula, int numeroPuertas, String marca, double precio, LocalDateTime fechaRegistro, boolean disponible, String color) {
+    public Carro(String matricula, int numeroPuertas, String marca, double precio, LocalDateTime fechaRegistro, String color) {
         this.matricula = matricula;
         this.numeroPuertas = numeroPuertas;
         this.marca = marca;
