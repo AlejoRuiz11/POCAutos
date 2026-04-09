@@ -20,8 +20,11 @@ public class CarroController {
 
     @PostMapping
     public ResponseEntity<String> agregarCarro(@RequestBody Carro carro) {
-        carroService.agregarCarro(carro);
-        return ResponseEntity.status(HttpStatus.CREATED).body("Carro agregado exitosamente");
+        boolean agregado = carroService.agregarCarro(carro);
+        if (agregado) {
+            return ResponseEntity.status(HttpStatus.CREATED).body("Carro agregado exitosamente");
+        }
+        return ResponseEntity.status(HttpStatus.CONFLICT).body("Ya existe un carro con esa placa");
     }
 
 

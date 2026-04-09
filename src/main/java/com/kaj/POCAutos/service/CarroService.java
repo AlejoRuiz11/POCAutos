@@ -25,8 +25,13 @@ public class CarroService implements ICarroService {
     }
 
     @Override
-    public void agregarCarro(Carro carro) {
+    public boolean agregarCarro(Carro carro) {
+        Carro existente = buscarPorPlaca(carro.getMatricula());
+        if (existente != null) {
+            return false;
+        }
         carros.add(carro);
+        return true;
     }
 
     @Override

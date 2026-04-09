@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface ICarroService {
 
-    public void agregarCarro(Carro carro);
+    public boolean agregarCarro(Carro carro);
     public List<Carro> listarCarros();
     public Carro buscarPorPlaca(String placa);
     public boolean eliminarCarro(String placa);
