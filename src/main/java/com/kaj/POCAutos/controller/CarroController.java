@@ -17,20 +17,20 @@ public class CarroController {
     private ICarroService carroService;
 
 
-    // Insertar - 20%
+
     @PostMapping
     public ResponseEntity<String> agregarCarro(@RequestBody Carro carro) {
         carroService.agregarCarro(carro);
         return ResponseEntity.status(HttpStatus.CREATED).body("Carro agregado exitosamente");
     }
 
-    // Listar todos - 25%
+
     @GetMapping
     public ResponseEntity<List<Carro>> listarCarros() {
         return ResponseEntity.ok(carroService.listarCarros());
     }
 
-    // Listar con filtro por marca y color - 25%
+
     @GetMapping("/filtro")
     public ResponseEntity<List<Carro>> listarPorFiltro(
             @RequestParam(required = false) String marca,
@@ -38,7 +38,7 @@ public class CarroController {
         return ResponseEntity.ok(carroService.listarPorFiltro(marca, color));
     }
 
-    // Consulta individual por placa - 15%
+
     @GetMapping("/{placa}")
     public ResponseEntity<?> buscarPorPlaca(@PathVariable String placa) {
         Carro carro = carroService.buscarPorPlaca(placa);
@@ -48,7 +48,7 @@ public class CarroController {
         return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Carro no encontrado");
     }
 
-    // Eliminar - 20% (el service ya busca primero internamente)
+
     @DeleteMapping("/{placa}")
     public ResponseEntity<String> eliminarCarro(@PathVariable String placa) {
         boolean eliminado = carroService.eliminarCarro(placa);
@@ -58,7 +58,7 @@ public class CarroController {
         return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Carro no encontrado");
     }
 
-    // Actualizar - 20% (el service ya busca primero internamente)
+
     @PutMapping("/{placa}")
     public ResponseEntity<String> actualizarCarro(@PathVariable String placa, @RequestBody Carro carroNuevo) {
         boolean actualizado = carroService.actualizarCarro(placa, carroNuevo);
