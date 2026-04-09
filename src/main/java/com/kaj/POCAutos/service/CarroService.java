@@ -72,8 +72,8 @@ public class CarroService implements ICarroService {
     @Override
     public List<Carro> listarPorFiltro(String marca, String color) {
         return carros.stream()
-                .filter(c -> marca == null || c.getMarca().equalsIgnoreCase(marca))
-                .filter(c -> color == null || c.getColor().equalsIgnoreCase(color))
+                .filter(c -> marca == null || marca.isEmpty() || c.getMarca().equalsIgnoreCase(marca))
+                .filter(c -> color == null || color.isEmpty() || c.getColor().equalsIgnoreCase(color))
                 .collect(Collectors.toList());
     }
 
