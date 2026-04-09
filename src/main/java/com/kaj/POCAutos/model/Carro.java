@@ -2,40 +2,42 @@ package com.kaj.POCAutos.model;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 
-@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, property = "tipo")
-@JsonSubTypes({
-        @JsonSubTypes.Type(value = CarroCombustion.class, name = "combustion"),
-        @JsonSubTypes.Type(value = CarroElectrico.class, name = "electrico")
-})
-public abstract class Carro {
-    private String matricula;
-    private Integer numeroPuertas;
-    private String modelo;
-    private String color;
-    private String marca;
+import java.time.LocalDateTime;
 
-    public Carro(String matricula, Integer numeroPuertas, String modelo, String color, String marca) {
+
+public class Carro {
+    private String matricula;        // String
+    private int numeroPuertas;       // int
+    private String marca;            // String
+    private double precio;           // double
+    private LocalDateTime fechaRegistro;  // LocalDateTime
+    private String color;
+
+    public Carro(String matricula, int numeroPuertas, String marca, double precio, LocalDateTime fechaRegistro, boolean disponible, String color) {
         this.matricula = matricula;
         this.numeroPuertas = numeroPuertas;
-        this.modelo = modelo;
-        this.color = color;
         this.marca = marca;
+        this.precio = precio;
+        this.fechaRegistro = fechaRegistro;
+        this.color = color;
     }
-
-    // Getters y Setters
 
     public String getMatricula() { return matricula; }
     public void setMatricula(String matricula) { this.matricula = matricula; }
 
-    public Integer getNumeroPuertas() { return numeroPuertas; }
-    public void setNumeroPuertas(Integer numeroPuertas) { this.numeroPuertas = numeroPuertas; }
+    public int getNumeroPuertas() { return numeroPuertas; }
+    public void setNumeroPuertas(int numeroPuertas) { this.numeroPuertas = numeroPuertas; }
 
-    public String getModelo() { return modelo; }
-    public void setModelo(String modelo) { this.modelo = modelo; }
+    public String getMarca() { return marca; }
+    public void setMarca(String marca) { this.marca = marca; }
+
+    public double getPrecio() { return precio; }
+    public void setPrecio(double precio) { this.precio = precio; }
+
+    public LocalDateTime getFechaRegistro() { return fechaRegistro; }
+    public void setFechaRegistro(LocalDateTime fechaRegistro) { this.fechaRegistro = fechaRegistro; }
 
     public String getColor() { return color; }
     public void setColor(String color) { this.color = color; }
 
-    public String getMarca() { return marca; }
-    public void setMarca(String marca) { this.marca = marca; }
 }

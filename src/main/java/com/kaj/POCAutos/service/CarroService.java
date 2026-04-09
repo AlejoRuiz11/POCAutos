@@ -5,11 +5,24 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class CarroService implements ICarroService {
 
     private List<Carro> carros = new ArrayList<>();
+    public static CarroService carroService;
+
+    private CarroService(){}
+
+    public static CarroService GetInstance()
+    {
+        if(carroService==null)
+        {
+            carroService = new CarroService();
+        }
+        return carroService;
+    }
 
     @Override
     public void agregarCarro(Carro carro) {
@@ -31,13 +44,33 @@ public class CarroService implements ICarroService {
 
     @Override
     public boolean eliminarCarro(String placa) {
-        return carros.removeIf(c -> c.getMatricula().equals(placa));
+        Carro carrito = buscarPorPlaca(placa);
+        if(carrito != null)
+        {
+            carros.remove(carrito);
+            return true;
+        }
+        return false;
     }
 
     @Override
-    public double calcularValorTotal() {
-        // lógica de negocio, no va en el controller
-        return carros.size() * 15000.0;
+    public boolean actualizarCarro(String placa, Carro carroNuevo) {
+        Carro carrito = buscarPorPlaca(placa);
+        if (carrito != null) {
+            int index = carros.indexOf(carrito);
+            carros.set(index, carroNuevo);
+            return true;
+        }
+        return false;
     }
+
+    @Override
+    public List<Carro> listarPorFiltro(String marca, String color) {
+        return carros.stream()
+                .filter(c -> marca == null || c.getMarca().equalsIgnoreCase(marca))
+                .filter(c -> color == null || c.getColor().equalsIgnoreCase(color))
+                .collect(Collectors.toList());
+    }
+
 }
 

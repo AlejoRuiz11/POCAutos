@@ -10,6 +10,7 @@ public interface ICarroService {
     public List<Carro> listarCarros();
     public Carro buscarPorPlaca(String placa);
     public boolean eliminarCarro(String placa);
-    public double calcularValorTotal();
+    public boolean actualizarCarro(String placa, Carro carro);
+    public List<Carro> listarPorFiltro(String marca, String color);
 
 }
