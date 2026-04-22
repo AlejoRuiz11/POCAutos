@@ -56,9 +56,18 @@ public class CarroController {
     public ResponseEntity<String> eliminarCarro(@PathVariable String placa) {
         boolean eliminado = carroService.eliminarCarro(placa);
         if (eliminado) {
-            return ResponseEntity.ok("Carro eliminado exitosamente");
+            return ResponseEntity.ok("Carro inactivado exitosamente");
         }
-        return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Carro no encontrado");
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Carro no encontrado o ya se encuentra inactivo");
+    }
+
+    @PatchMapping("/{placa}/activar")
+    public ResponseEntity<String> reactivarCarro(@PathVariable String placa) {
+        boolean reactivado = carroService.reactivarCarro(placa);
+        if (reactivado) {
+            return ResponseEntity.ok("Carro reactivado exitosamente");
+        }
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Carro no encontrado o ya se encuentra activo");
     }
 
 

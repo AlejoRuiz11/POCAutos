@@ -16,6 +16,7 @@ public class Carro {
     private String color;
     @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
     private LocalDateTime fechaRegistro;
+    private boolean activo;          // true = activo, false = inactivo (eliminado lógico)
 
     public Carro(String matricula, int numeroPuertas, String marca, double precio, LocalDateTime fechaRegistro, String color) {
         this.matricula = matricula;
@@ -24,6 +25,7 @@ public class Carro {
         this.precio = precio;
         this.fechaRegistro = fechaRegistro;
         this.color = color;
+        this.activo = true;
     }
 
     public String getMatricula() { return matricula; }
@@ -43,5 +45,8 @@ public class Carro {
 
     public String getColor() { return color; }
     public void setColor(String color) { this.color = color; }
+
+    public boolean isActivo() { return activo; }
+    public void setActivo(boolean activo) { this.activo = activo; }
 
 }
