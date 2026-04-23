@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|c:\\users\\kevin\\onedrive\\documentos\\proyectos\\poccarro\\poccarro\\formactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|solutionrelative:poccarro\\formactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|c:\\users\\kevin\\onedrive\\documentos\\proyectos\\poccarro\\poccarro\\formactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|solutionrelative:poccarro\\formactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|c:\\users\\kevin\\onedrive\\documentos\\proyectos\\poccarro\\poccarro\\formactualizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|solutionrelative:poccarro\\formactualizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|c:\\users\\kevin\\onedrive\\documentos\\proyectos\\poccarro\\poccarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6246CDC-3C24-4036-A2CF-7B3137E3874A}|POCCarro\\POCCarro.csproj|solutionrelative:poccarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormActualizar.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.cs",
+              "RelativeDocumentMoniker": "POCCarro\\FormActualizar.cs",
+              "ToolTip": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.cs",
+              "RelativeToolTip": "POCCarro\\FormActualizar.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:45:51.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormActualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.cs",
+              "RelativeDocumentMoniker": "POCCarro\\FormActualizar.cs",
+              "ToolTip": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POCCarro\\FormActualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:44:30.384Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\Form1.cs",
+              "RelativeDocumentMoniker": "POCCarro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\Form1.cs",
+              "RelativeToolTip": "POCCarro\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAEwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:27:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormActualizar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.Designer.cs",
+              "RelativeDocumentMoniker": "POCCarro\\FormActualizar.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\OneDrive\\Documentos\\Proyectos\\POCCarro\\POCCarro\\FormActualizar.Designer.cs",
+              "RelativeToolTip": "POCCarro\\FormActualizar.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:19:38.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

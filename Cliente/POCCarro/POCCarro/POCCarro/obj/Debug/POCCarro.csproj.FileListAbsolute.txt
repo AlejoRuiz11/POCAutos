@@ -1,0 +1,155 @@
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\POCCarro.exe.config
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\POCCarro.exe
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\POCCarro.pdb
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\RestSharp.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Buffers.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Memory.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Text.Json.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\RestSharp.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Buffers.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Memory.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Text.Json.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.Form1.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormAcercaDe.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormActualizar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormAgregar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarActualizar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormConsultar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormEliminar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.FormListar.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.Properties.Resources.resources
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.Up2Date
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.exe
+C:\Users\Kevin\source\repos\POCCarro\POCCarro\obj\Debug\POCCarro.pdb
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\POCCarro.exe.config
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\POCCarro.exe
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\POCCarro.pdb
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\RestSharp.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Buffers.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Memory.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Text.Json.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\RestSharp.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Buffers.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Memory.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Text.Json.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.Form1.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormAcercaDe.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormActualizar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormAgregar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarActualizar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarEliminar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormConsultar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormEliminar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.FormListar.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.Properties.Resources.resources
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.GenerateResource.cache
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.Up2Date
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.exe
+C:\Users\Kevin\OneDrive\Documentos\Proyectos\POCCarro\POCCarro\obj\Debug\POCCarro.pdb
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.exe.config
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.exe
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.pdb
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\RestSharp.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Buffers.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Memory.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Json.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\RestSharp.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Buffers.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Memory.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Json.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.Form1.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormAcercaDe.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormActualizar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormAgregar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarActualizar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarEliminar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormConsultar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormEliminar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormListar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.Properties.Resources.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.Up2Date
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.exe
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.pdb
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.exe.config
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.exe
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\POCCarro.pdb
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\RestSharp.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Buffers.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Memory.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Json.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\RestSharp.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Buffers.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.IO.Pipelines.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Memory.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Numerics.Vectors.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Encodings.Web.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Text.Json.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.Form1.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormAcercaDe.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormActualizar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormAgregar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarActualizar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormBuscarEliminar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormConsultar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormEliminar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.FormListar.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.Properties.Resources.resources
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.csproj.Up2Date
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.exe
+D:\UNIVERSIDAD\Pregrado\8\Empresariales\2 corte\Proyecto\POCAutos\Cliente\POCCarro\POCCarro\POCCarro\obj\Debug\POCCarro.pdb
