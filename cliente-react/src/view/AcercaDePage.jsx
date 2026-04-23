@@ -9,8 +9,9 @@ export default function AcercaDePage() {
         <p><b>Curso:</b> Desarrollo de Aplicaciones Empresariales - Universidad de Ibague</p>
         <p><b>Integrantes del equipo:</b></p>
         <ul>
-          <li>Alejo Ruiz</li>
-          <li>(Agrega aqui los demas integrantes)</li>
+          <li>Fabian Alejandro Ruiz Osorio</li>
+          <li>Kevin Esteban Rodriguez Guijo</li>
+          <li>Juan Angel Bocanegra Valencia</li>
         </ul>
       </div>
     </div>
